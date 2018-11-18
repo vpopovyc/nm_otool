@@ -11,6 +11,9 @@
       location = "group:shared.h">
    </FileRef>
    <FileRef
+      location = "group:mmap_mach_o.c">
+   </FileRef>
+   <FileRef
       location = "group:nm">
    </FileRef>
    <FileRef
