@@ -15,4 +15,6 @@
 
 # include <shared.h>
 
+void nm(t_binary binary);
+
 #endif
